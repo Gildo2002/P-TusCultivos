@@ -20,7 +20,7 @@ print('keras: %s' % keras.__version__)
 
 from skimage.transform import resize
 
-dirname = os.path.join(os.getcwd(), 'Cultivos de hortalizas')
+dirname = os.path.join(os.getcwd(), 'Cultivos Granos')
 imgpath = dirname + os.sep
 
 images = []
